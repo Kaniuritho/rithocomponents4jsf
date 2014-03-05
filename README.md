@@ -12,7 +12,7 @@
   
 ### Usage:
 
-  In you jsp / jspx; import ritho tld just as you would other tag libraries:
+  In your jsp/jspx/xhtml, import ritho tld just as you would other tag libraries:
   
 ````
   xmlns:r="http://ritho.com/jsf"
