@@ -4,7 +4,7 @@
 ## Ritho Components for JSF:
 
 
-  Ritho components for JSF are add-on tags for added UI flavor.
+  Ritho components for JSF are add-on tags for added UI flavor. Builds for this package are formally released at [Ritho Labs](http://labs.ritho.com).
 
 ### Components:
  
