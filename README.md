@@ -32,7 +32,7 @@
   <r:autoImage rendered="true"  src="http://#[a-remote-image].jpg" />
 ````
 
-  {{{./autoImage.html} autoImage complete example}}
+[ autoImage complete example](autoImage.md)
 
 ## RestfulImage component 
  
@@ -72,4 +72,6 @@
   <r:restImage rendered="true" row="image_#{imgId}" id="[some uniqueId]"  styleClass="randomImg" />
 ````
 
-  {{{./restImage.html} restImage complete example}}  
+
+
+  [ restImage complete example](restImage.md)
