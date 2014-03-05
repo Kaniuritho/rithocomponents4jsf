@@ -1,6 +1,6 @@
 Here is a complete jsp example of restImage component in Myfaces JSF
 
----
+````
 <jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0"
         xmlns:f="http://java.sun.com/jsf/core"
         xmlns:h="http://java.sun.com/jsf/html"
@@ -18,4 +18,4 @@ Here is a complete jsp example of restImage component in Myfaces JSF
 </body>
 </html>
 </jsp:root>
----
+````
